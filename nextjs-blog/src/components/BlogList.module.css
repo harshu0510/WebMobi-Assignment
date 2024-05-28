@@ -1,0 +1,23 @@
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .listItem {
+    margin: 20px 0;
+  }
+  
+  .listItem a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .listItem h3 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .listItem p {
+    margin: 5px 0;
+  }
+  

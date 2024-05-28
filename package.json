@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.2"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  }
+}
